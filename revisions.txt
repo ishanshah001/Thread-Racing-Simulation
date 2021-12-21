@@ -1,0 +1,41 @@
+commit 41aa9efa9b145e68d98770526f8dd9b7cef59cbc
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 23:15:06 2021 -0500
+
+    final submission
+
+commit 9f7da5cd792c5290fcfc5c5f6c82e9e257f962da
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 23:02:33 2021 -0500
+
+    documentation updated
+
+commit f2bb2390a22fb46f5cee25c24e9c11e5a63534d7
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 22:56:31 2021 -0500
+
+    made changes to errors
+
+commit 14250260f2485b6c22f691d1eaa1c23c0dec653b
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 22:50:57 2021 -0500
+
+    trying try
+
+commit 975adc04c5e1d6b3904ca515a155c4ef3853f77c
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 22:28:49 2021 -0500
+
+    run function of racer left
+
+commit 2531c26fcff3ad517f501cb1b7f49a7e16e58bb0
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 22:09:03 2021 -0500
+
+    pt-crusier done. need to check for errors.
+
+commit 06da76d1cb51206849513b26b7ba4317e5114868
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Dec 1 15:14:55 2021 -0500
+
+    initial baseline
